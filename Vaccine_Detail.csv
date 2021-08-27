@@ -1,0 +1,24 @@
+eID,Name of the Vaccine,Administered 1st Dose,Date of Administration,Administered 2nd Dose,Date of Administration
+1,Covishield,Yes,10.04.2021,Yes,9.07.2021
+2,Covaxin,Yes,09.04.2021,Yes,11.06.2021
+3,Covishield,Yes,19-03-21,Yes,03-05-21
+4,Covaxin,Yes,24.03.2021,Yes,24.04.2021
+5,Covishield,Yes,24.03.2021,Yes,07.05.2021
+6,Covaxin,Yes,18.03.2021,Yes,16.04.2021
+7,Covishield,Yes,27.03.2021,Yes,11.05.2021
+8,Covaxin,Yes,25.05.2021,Yes,24.06.21
+9,Covishield,Yes,24.03.2021,No,-
+10,Covishield,Yes,15.03.2021,Yes,26.04.2021
+11,Covishield,Yes,27.03.2021,Yes,11.05.2021
+12,Covaxin,Yes,18.03.2021,Yes,16.04.2021
+13,Covishield,Yes,24.03.2021,Yes,07.05.2021
+14,Covishield,Yes,24.03.2021,Yes,07.05.2021
+15,Covishield,Yes,24.03.2021,Yes,01.05.2021
+16,Covishield,Yes,24.03.2021,Yes,01.05.2021
+17,Covishield,Yes,Covishield,Yes,30.04.2021
+18,Covishield,Yes,24.03.2021,Yes,22.06.2021
+19,Covishield,Yes,17.07.2021,No,-
+20,Covaxin,Yes,18.03.2021,Yes,16.04.2021
+21,COVISHIELD,Yes,27.05.2021,No,-
+22,Covishield,Yes,16.04.2021,Yes,11.05.2021
+23,Covishield,Yes,18.03.2021,Yes,03.05.2021
